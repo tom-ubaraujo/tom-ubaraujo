@@ -2,7 +2,7 @@
 
 ### Olá, tudo bem? Pode me chamar de Tom Araújo! ###
 
-** 🔭 Analista de Sistemas Mainframe** na Stefanini
+🔭 **Analista de Sistemas Mainframe** na Stefanini
 
 Sou desenvolvedor há 7 anos trabalhando principalmente com software para Mainframe IBM. 
 Estou também estudando assuntos relacionados a área de dados pois quero fazer uma migração de carreira.
@@ -15,7 +15,7 @@ Tenho bastante experiência com: Cobol, CICS, IBM DB2, JCL.
 
 ___
 
-** 🌱 Aprendendo:**
+🌱 **Aprendendo:**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Static Badge](https://img.shields.io/badge/Pandas-blue?style=for-the-badge&logo=pandas)
@@ -29,7 +29,7 @@ ___
 
 ___
 
-** 📫 Onde me encontrar:**
+📫 **Onde me encontrar:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ubaraujo)
 
