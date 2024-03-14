@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### Olá, tudo bem? Pode me chamar de Tom Araújo! ###
+### Olá, tudo bem? Pode me chamar de Tom Araújo! ### 👋
 
 🔭 **Analista de Sistemas Mainframe** na Stefanini
 
