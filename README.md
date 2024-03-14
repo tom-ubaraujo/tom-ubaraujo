@@ -1,5 +1,5 @@
-### Olá, tudo bem? Pode me chamar de Tom Araújo! ### 👋
-
+### Olá, tudo bem? Pode me chamar de Tom Araújo!👋
+___
 🔭 **Analista de Sistemas Mainframe** na Stefanini
 
 Sou desenvolvedor há 7 anos trabalhando principalmente com software para Mainframe IBM. 
