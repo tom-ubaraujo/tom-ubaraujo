@@ -36,9 +36,14 @@ ___
 
 ___
 
-![Tom's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tom-ubaraujo&layout=donut&bg_color=282A36&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=tom-ubaraujo&show_icons=true&rank_icon=github&theme=dracula)
+<div>
+<a href="https://github.com/tom-ubaraujo">
+<img loading="lazy" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tom-ubaraujo&layout=donut&bg_color=282A36&border_color=FFF&title_color=E94D5F&text_color=FFF"/>
+<img loading="lazy" height="190em" src="https://github-readme-stats.vercel.app/api?username=tom-ubaraujo&show_icons=true&rank_icon=github&theme=dracula"/>
+</div>
+  
 ___
+  
 📫 **Onde me encontrar:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ubaraujo)
