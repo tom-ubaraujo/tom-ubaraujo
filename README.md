@@ -2,7 +2,7 @@
 ___
 💻 **Analista de Sistemas Mainframe** na Stefanini
 
-Curioso por natureza, fã de heavy metal mas tabém de RAP nacional. Meus hobbies são ler, ver séries e filmes, principalmente no gênero sci-fi, além de jogos de rpg e aventura.
+Curioso por natureza, fã de heavy metal mas também de RAP nacional. Meus hobbies são ler, ver séries e filmes, principalmente no gênero sci-fi, além de jogos de rpg e aventura(bem nerdola né?).
 
 Sou desenvolvedor há 7 anos trabalhando principalmente com software para Mainframe IBM, em ambiente bancário. 
 
