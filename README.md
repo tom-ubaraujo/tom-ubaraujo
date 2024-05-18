@@ -2,11 +2,11 @@
 ___
 💻 **Analista de Sistemas Mainframe** na Stefanini
 
-Curioso por natureza, fã de heavy metal mas também de RAP nacional. Meus hobbies são ler, ver séries e filmes, principalmente no gênero sci-fi, além de jogos de rpg e aventura(bem nerdola né?).
+Curioso por natureza, fã de heavy metal e RAP nacional.
 
 Sou desenvolvedor há 7 anos trabalhando principalmente com software para Mainframe IBM, em ambiente bancário. 
 
-Atualmente fazendo uma migração de carreira para área de Data Science e IA. Para isso estou cursando pós em engenharia de dados, mas sem deixar de lado desenvolvimento de software e estatística.
+Atualmente fazendo uma migração de carreira para back-end com linguagens modernas.
 
 🎓 **Formação:**
 - Bacharel em Sistemas de Informação pela UNIEURO.
