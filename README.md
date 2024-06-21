@@ -30,7 +30,7 @@ ___
 🛠️ **Ferramentas que uso:**
 <p align="left">
   <a href="www.linkedin.com/in/ubaraujo">
-    <img src="https://skillicons.dev/icons?i=git,github,ubuntu,windows,vscode,pycharm,notion,discord&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode,idea&theme=dark" />
   </a>
 </p>
 
