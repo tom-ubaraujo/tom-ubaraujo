@@ -12,7 +12,7 @@ Atualmente fazendo uma migração de carreira para back-end com linguagens moder
 🎓 **Formação:**
 - Bacharel em Sistemas de Informação pela UNIEURO.
 - Pós Graduação em Big Data - Data Engineering pela FIA Business School(Cursando)
-- Pós Graduação em Desenvolvimento avançado em Golang pela Full Cycle Tech
+- Pós Graduação em Desenvolvimento avançado em Golang pela Full Cycle Tech(Cursando)
 
 📚 **Proficiência:** 
 - Mainframe
