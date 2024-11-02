@@ -4,7 +4,7 @@ ___
 
 Curioso por natureza, fã de heavy metal e RAP nacional.
 
-Sou desenvolvedor há 7 anos trabalhando principalmente com software para Mainframe IBM, em ambiente bancário. 
+Sou desenvolvedor desde 2016 trabalhando principalmente com Cobol/Mainframe, criando sistemas em ambiente bancário/financeiro. 
 
 Atualmente fazendo uma migração de carreira para back-end com linguagens modernas.
 
